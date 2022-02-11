@@ -12,7 +12,6 @@ export const links = [
     description: "Next Generation ORM for TypeScript and JavaScript",
     id: "2a3121b2-363b-4a4f-ad26-d6c35b41bade",
     imageUrl: "https://www.prisma.io/images/og-image.png",
-
     title: "Prisma",
     url: "https://prisma.io",
   },
@@ -21,7 +20,7 @@ export const links = [
     description: "Utility-fist css framework",
     id: "6a9122b2-363b-4a4f-ad26-d6c55b51baed",
     imageUrl:
-      "https://tailwindcss.com/_next/static/media/twitter-large-card.85c0ff9e455da585949ff0aa50981857.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh6bDx-PkyPPJ8WNfOsNgpIsYb1-8JFFT5Pg&usqp=CAU",
     title: "TailwindCSS",
     url: "https://tailwindcss.com",
   },
