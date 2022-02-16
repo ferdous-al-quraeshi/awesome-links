@@ -32,7 +32,7 @@ model Link {
   title       String
   description String
   url         String
-  imageURL    String
+  imageUrl    String
   category    String
   users       User[]
 }
