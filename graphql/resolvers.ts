@@ -1,7 +1,5 @@
 export const resolvers = {
   Query: {
-    links: (_parent, _args, ctx) => {
-      return ctx.prisma.link.findMany()
-    },
+    links: async (_parent, _args, ctx) => await ctx.prisma.link.findMany()
   },
 }
